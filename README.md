@@ -98,4 +98,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Sharing capabilities with unique URLs
 - [ ] Comparison mode for multiple options
 - [ ] Dark mode support
-- [ ] Mobile app version
+- [ ] Mobile app version# pros_cons
